@@ -28,6 +28,8 @@ public class Habilidades {
     @Size(min = 1, max = 50, message = "no cumple con la longitud")
     private int progreso;
     
-  
+  @NotNull
+    @Size(min = 1, max = 50000, message = "no cumple con la longitud")
+    private String img;
     
 }
