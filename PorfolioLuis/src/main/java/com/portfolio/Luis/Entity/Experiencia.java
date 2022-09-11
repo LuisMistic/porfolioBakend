@@ -27,7 +27,10 @@ public class Experiencia {
     @NotNull
     @Size(min = 1, max = 700, message = "no cumple con la longitud")
     private String descripcion;
-
+ 
+   /* @NotNull
+    @Size(min = 1, max = 2000, message = "no cumple con la longitud")
+    private String detalle;*/
    
     @NotNull
     @Size(min = 1, max = 50, message = "no cumple con la longitud")

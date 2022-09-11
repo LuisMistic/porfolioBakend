@@ -1,4 +1,4 @@
-# Created at 2022-08-31T20:35:40.497
+# Created at 2022-09-10T20:56:47.997
 Boot Manifest-JAR contains absolute paths in classpath I:\Porfolio\porfoliobakend\BacKEnd\PorfolioLuis\target\test-classes
 java.lang.IllegalArgumentException: 'other' has different root
 	at sun.nio.fs.WindowsPath.relativize(WindowsPath.java:392)
@@ -45,7 +45,7 @@ java.lang.IllegalArgumentException: 'other' has different root
 	at org.apache.maven.wrapper.MavenWrapperMain.main(MavenWrapperMain.java:72)
 
 
-# Created at 2022-08-31T20:35:40.498
+# Created at 2022-09-10T20:56:47.998
 Boot Manifest-JAR contains absolute paths in classpath I:\Porfolio\porfoliobakend\BacKEnd\PorfolioLuis\target\classes
 java.lang.IllegalArgumentException: 'other' has different root
 	at sun.nio.fs.WindowsPath.relativize(WindowsPath.java:392)
