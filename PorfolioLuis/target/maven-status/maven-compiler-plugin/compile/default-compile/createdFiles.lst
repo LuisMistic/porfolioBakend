@@ -34,7 +34,6 @@ com\portfolio\Luis\security\repository\UsuarioRepository.class
 com\portfolio\Luis\Entity\Persona.class
 com\portfolio\Luis\Entity\Habilidades.class
 com\portfolio\Luis\security\entity\Usuario.class
-com\portfolio\Luis\security\util\createRoles.class
 com\portfolio\Luis\Controller\HabilidadesControler.class
 com\portfolio\Luis\Repository\IHomeRepository.class
 com\portfolio\Luis\Service\ImpPersonaService.class
